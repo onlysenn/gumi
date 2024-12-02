@@ -38,7 +38,7 @@ app.listen(port, () => {
 });
 
 const statusMessages = ["✩ admiring the stars"];
-const statusTypes = [ 'dnd', 'idle'];
+const statusTypes = ['idle'];
 let currentStatusIndex = 0;
 let currentTypeIndex = 0;
 
